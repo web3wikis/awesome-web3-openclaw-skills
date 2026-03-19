@@ -1,9 +1,6 @@
-# awesome-web3-openclaw-skills
-Awesome Web3 Openclaw Skills
+# Awesome Web3 OpenClaw Skills
 
-# Web3 OpenClaw Skills Directory — Complete Skills Annex
-
-> A comprehensive index of all 899 Web3 OpenClaw skills available at [web3claw.ceoism.com](https://web3claw.ceoism.com).
+> A comprehensive index of all 899 Awesome Web3 OpenClaw skills available at [web3claw.ceoism.com](https://web3claw.ceoism.com).
 
 ---
 
